@@ -1,0 +1,94 @@
+[
+  {
+    "id": 1,
+    "name": "Avengers: Endgame",
+    "logo": "/assets/posters/poster1.jpg",
+    "status": "available",
+    "streamURL": {
+      "fullscreen": "https://www.youtube.com/watch?v=K4TOrB7at0Y",
+      "preview": "/assets/videos/video.mp4"
+    }
+  },
+    {
+    "id": 2,
+    "name": "Spider-Man: No Way Home",
+    "logo": "/assets/posters/poster2.jpg",
+    "status": "available",
+    "streamURL": {
+      "fullscreen": "https://www.youtube.com/watch?v=K4TOrB7at0Y",
+      "preview": "/assets/videos/video.mp4"
+    }
+  },
+  {
+    "id": 3,
+    "name": "Superman",
+    "logo": "/assets/posters/poster3.jpg",
+    "status": "available",
+    "streamURL": {
+      "fullscreen": "https://www.youtube.com/watch?v=K4TOrB7at0Y",
+      "preview": "/assets/videos/video.mp4"
+    }
+  },
+  {
+    "id": 4,
+    "name": "The Batman",
+    "logo": "/assets/posters/poster4.jpg",
+    "status": "available",
+    "streamURL": {
+      "fullscreen": "https://www.youtube.com/watch?v=K4TOrB7at0Y",
+      "preview": "/assets/videos/video.mp4"
+    }
+  },
+  {
+    "id": 5,
+    "name": "Shazam! Fury of the Gods",
+    "logo": "/assets/posters/poster5.jpg",
+    "status": "available",
+    "streamURL": {
+      "fullscreen": "https://www.youtube.com/watch?v=K4TOrB7at0Y",
+      "preview": "/assets/videos/video.mp4"
+    }
+  },
+  {
+    "id": 6,
+    "name": "Guardians of the Galaxy Vol. 3",
+    "logo": "/assets/posters/poster6.jpg",
+    "status": "available",
+    "streamURL": {
+      "fullscreen": "https://www.youtube.com/watch?v=K4TOrB7at0Y",
+      "preview": "/assets/videos/video.mp4"
+    }
+  },
+
+  {
+    "id": 7,
+    "name": "Aquaman and the Lost Kingdom",
+    "logo": "/assets/posters/poster7.jpg",
+    "status": "available",
+    "streamURL": {
+      "fullscreen": "https://www.youtube.com/watch?v=K4TOrB7at0Y",
+      "preview": "/assets/videos/video.mp4"
+    }
+  },
+  {
+    "id": 8,
+    "name": "Thor: Love and Thunder",
+    "logo": "/assets/posters/poster8.jpg",
+    "status": "available",
+    "streamURL": {
+      "fullscreen": "https://www.youtube.com/watch?v=K4TOrB7at0Y",
+      "preview": "/assets/videos/video.mp4"
+    }
+  },
+  {
+    "id": 9,
+    "name": "Captain Marvel",
+    "logo": "/assets/posters/poster9.jpg",
+    "status": "avLucailable",
+    "streamURL": {
+      "fullscreen": "https://www.youtube.com/watch?v=K4TOrB7at0Y",
+      "preview": "/assets/videos/video.mp4"
+    }
+  }
+
+]
